@@ -19,3 +19,8 @@ The repository contains the source code of a sample application developed with E
 - `src/routes/`: This folder holds the route definitions and controllers of the application.
 - `src/models/`: Folder containing the data models used in the application.
 - `package.json`: npm configuration file with the necessary dependencies and scripts.
+
+## Contribution
+Feel free to contribute to this repository by opening issues or sending pull requests. You can also suggest new features or improvements.
+
+Thank you for visiting this testing repository! If you have any questions, don't hesitate to contact us.
